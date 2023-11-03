@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhuang Cailin"
   avatar           : "zcl1.png"
-  bio              : "Master, Computer Vision, Computer Graphics, ShanghaiTech University, China, zhuangcl2023@shanghaitech.edu.cn"
-  location         : "Location"
+  bio              : "Master, Computer Vision, Computer Graphics, ShanghaiTech University"
+  location         : "China Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "zhuangcl2023@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
