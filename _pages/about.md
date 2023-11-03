@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About AI4C Lab and me"
+title: "About me and AI4C Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
