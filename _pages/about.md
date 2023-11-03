@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I'm a graduate student from [School of SIST](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Computer Vision, Computer Graphics, Machine Learning, and Computational Photography.
+
+
+AI4C Research Planning
+======
+In accordance with the idea of "exploring AIGC technology to enable artistic creation and content production, and promote the era of independent creation", we will take film and television animation as our starting object of research, because "animation" is a type of artistic expression, including music, picture, color, story, motion effect and emotion and other all-round elements. It provides rich and comprehensive "learning materials" for artificial intelligence to fully understand creation, and "film grade" means more extreme artistic performance and higher precision technical level (the difference between ordinary video, TV series and movies is the expression of various artistic languages, such as lens language), and will land research results in the industry, rather than shelving.
+
+The future research work of AI4C Lab can be simply described in two aspects: the basic general level and the application scenario level. The basic general level aims to give artificial intelligence the ability of design logic in artistic creation, so that it has design intelligence (AI with design thinking); The application scenario level aims to apply the current generative artificial intelligence with design intelligence to creative workflow, liberate human creativity, improve work efficiency, and thus promote the transformation from "workflow" to "creative flow", ie. AI in creative workflow.
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Research interests
