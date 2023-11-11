@@ -27,6 +27,7 @@ Application technical level (AI in Creative Workflow) starts from the perspectiv
 3 Fundamental Research
 ------
 So, how do we implement the idea above? This requires us to understand how the current powerful large generative AI-model works, which is called Interpretability research. In my opinion, it can be divided into microscopic interpretability, mesoscopic interpretability and macro interpretability.Research on the interpretability of large models can help us improve current deep learning algorithms and even streamline deep models, thus achieve "more with less".
+
 In addition to studying the Interpretability of existing technologies and carrying out improved innovation and application, we can also learn from other disciplines. Drawing on the existing great neuroscience theories, we can achieve subversive innovative breakthroughs by building mathematical models and neural network algorithms related to different brain function regions and brain networks (simulation-driven/object-oriented brain-like research).Using AI technology to assist the exploration of neural mechanisms, namely AI for Science (Neuroscience), and expressing neural mechanism as a mathematical model to improve AI algorithms (computational neuroscience).
 
 
