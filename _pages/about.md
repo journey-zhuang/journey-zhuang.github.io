@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Computer Vision, Computer Graphics, Machine Learning, and Computational Photography. I'm forming the AI4C Lab (AI for Creativity Lab), which aims to empower AI to design ,power artistic creation with AI-tech, and study the nature of human creativity.
+I'm a graduate student from [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Computer Vision, Computer Graphics, Machine Learning, and Computational Photography. I'm forming the AI4C Labs (AI for Creativity Labs), which aims to empower AI to design ,power artistic creation with AI-tech, and study the nature of human creativity.
 
 AI4C Research Plan
 ======
