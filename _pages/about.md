@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Computer Vision, Computer Graphics, Machine Learning, and Computational Photography. I am forming the AI4C Labs (AI for Creativity Labs), which aims to empower AI to design ,power artistic creation with AI-tech, and study the nature of human creativity. I am running a WeChat Official Account, called AIGC Research, to comprehensively track the academic frontier of AIGC through the PaperDaily series. As of 2024.4.22, it has reached 2200+ followers, and maintains a continuous upward trend, welcome your follow and support!
+I'm a graduate student from [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Image/Video/3D/4D AIGC, Computer Vision, Computer Graphics, Digital Media, Computational Photography, Neuroscience, etc. Currently, I primary focus on narrative filmmaking and neural signal-guided visual reconstruction, Leading AI4C (AI for Creativity) Team in AIGC Research. AI4C Team aims to empower AI to design, power artistic creation with AI-tech, and study the nature of human creativity. I am running a WeChat Official Account, called AIGC Research, to comprehensively track the academic frontier of AIGC through the PaperDaily series. 
+As of 2026.03.04, it has attracted more than **7,000** followers and maintained a rising trend, welcome your follow and support!
+
+![AIGC Research Logo](/images/创意人工智能研究组.png)
 
 AI4C Research Plan
 ======
