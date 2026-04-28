@@ -14,4 +14,4 @@ In this paper, we introduce **StyleMe3D**, a novel hierarchical framework that a
 
 [Download paper here](https://arxiv.org/pdf/2504.15281.pdf)
 
-![styleme3dpage](/images/styleme3dpage.jpg)
+![styleme3dpage](/images/styleme3dpage.png)
