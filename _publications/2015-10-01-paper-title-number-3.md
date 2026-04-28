@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-Shot Video Narrative."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2026-05-XX-XXX
+excerpt: 'This is a holistic framework for multi-shot video generation.'
+date: 2026-05-XX
+venue: 'arXiv'
+paperurl: '[https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+End-to-End Innovations Across Training Data, Model Architecture, Task Definition, and Benchmarking. (TeleAI Project - Confidential Research)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
