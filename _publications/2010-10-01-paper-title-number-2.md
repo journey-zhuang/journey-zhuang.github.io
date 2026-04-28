@@ -3,7 +3,7 @@ title: "ViStoryBench: Comprehensive Benchmark Suite for Story Visualization"
 collection: publications
 permalink: /publication/2025-05-30-vistorybench
 excerpt: 'This paper introduces ViStoryBench, a comprehensive benchmark designed to evaluate story visualization models across varied narrative structures, visual styles, and character settings.'
-date: 2025-05-30
+date: 2026-02-21
 venue: 'CVPR 2026'
 paperurl: '[https://arxiv.org/pdf/2505.24862](https://arxiv.org/pdf/2505.24862)'
 ---
