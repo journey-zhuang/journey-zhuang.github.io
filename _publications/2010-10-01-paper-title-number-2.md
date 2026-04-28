@@ -5,6 +5,7 @@ permalink: /publication/2025-05-30-vistorybench
 excerpt: 'This paper introduces ViStoryBench, a comprehensive benchmark designed to evaluate story visualization models across varied narrative structures, visual styles, and character settings.'
 date: 2026-02-21
 venue: 'CVPR 2026'
+projectpage: '[https://vistorybench.github.io/](https://vistorybench.github.io/)'
 paperurl: '[https://arxiv.org/pdf/2505.24862](https://arxiv.org/pdf/2505.24862)'
 ---
 
