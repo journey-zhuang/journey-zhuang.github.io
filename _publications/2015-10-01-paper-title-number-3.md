@@ -9,5 +9,3 @@ paperurl: '[https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)'
 ---
 
 End-to-End Innovations Across Training Data, Model Architecture, Task Definition, and Benchmarking. (TeleAI Project - Confidential Research)
-
-![multishotvideopage](/images/multishotvideo.jpg)
