@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-04-21-styleme3d
+excerpt: 'StyleMe3D is a holistic framework for 3D Gaussian Splatting style transfer that achieves scalable, semantically coherent, and perceptually enhanced stylization by disentangling multi-level semantics.'
+date: 2025-04-21
+venue: 'arXiv'
+paperurl: '[https://arxiv.org/abs/2504.15281](https://arxiv.org/abs/2504.15281)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Current 3D Gaussian Splatting (3DGS) stylization approaches are limited in their ability to represent diverse artistic styles, frequently defaulting to low-level texture replacement or yielding semantically inconsistent outputs. 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this paper, we introduce **StyleMe3D**, a novel hierarchical framework that achieves comprehensive, high-fidelity stylization by disentangling multi-level style representations while preserving geometric fidelity. The cornerstone of StyleMe3D is **Dynamic Style Score Distillation (DSSD)**, which harnesses latent priors from a style-aware diffusion model to provide high-level semantic guidance. We further propose a **Contrastive Style Descriptor (CSD)** for middle-level stylistic similarity and a **3D Gaussian Quality Assessment (3DG-QA)** to enhance perceptual quality. Finally, a **Simultaneously Optimized Scale (SOS)** module is integrated to refine fine-grained texture details at the low-level.
+
+[Download paper here](https://arxiv.org/pdf/2504.15281.pdf)
+
+Recommended citation: Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, and Ming Li. (2025). "StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians." <i>arXiv preprint arXiv:2504.15281</i>.
