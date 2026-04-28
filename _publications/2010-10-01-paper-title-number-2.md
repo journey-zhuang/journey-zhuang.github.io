@@ -18,5 +18,3 @@ This paper introduces ViStoryBench, a comprehensive benchmark designed to evalua
 ViStoryBench proposes a suite of multi-dimensional automated metrics to evaluate character consistency, style similarity, prompt alignment, aesthetic quality, and artifacts like copy-paste behavior. These metrics are validated through human studies and are applied to assess a broad range of open-source and commercial models, enabling systematic analysis and encouraging advances in the field of visual storytelling. The paper has been accepted for presentation at CVPR 2026.
 
 [Download paper here](https://arxiv.org/pdf/2505.24862)
-
-![vistorybenchpage](/images/vistorybenchpage.png)
