@@ -5,7 +5,8 @@ permalink: /publication/2025-04-21-styleme3d
 excerpt: 'StyleMe3D is a holistic framework for 3D Gaussian Splatting style transfer that achieves scalable, semantically coherent, and perceptually enhanced stylization by disentangling multi-level semantics.'
 date: 2025-04-21
 venue: 'arXiv'
-paperurl: '[https://arxiv.org/abs/2504.15281](https://arxiv.org/abs/2504.15281)'
+projectpage: '[https://styleme3d.github.io/](https://styleme3d.github.io/)'
+paper: '[https://arxiv.org/abs/2504.15281](https://arxiv.org/abs/2504.15281)'
 ---
 
 Current 3D Gaussian Splatting (3DGS) stylization approaches are limited in their ability to represent diverse artistic styles, frequently defaulting to low-level texture replacement or yielding semantically inconsistent outputs. 
