@@ -34,6 +34,34 @@ So, how do we implement the idea above? This requires us to understand how the c
 In addition to studying the Interpretability of existing technologies and carrying out improved innovation and application, we can also learn from other disciplines. Drawing on the existing great neuroscience theories, we can achieve subversive innovative breakthroughs by building mathematical models and neural network algorithms related to different brain function regions and brain networks (simulation-driven/object-oriented brain-like research).Using AI technology to assist the exploration of neural mechanisms, namely AI for Science (Neuroscience), and expressing neural mechanism as a mathematical model to improve AI algorithms (computational neuroscience).
 
 
+Publications
+======
+
+**ArXiv 2025｜Multi-Shot Video Narrative**
+
+![multishotvideo](/images/multishotvideo.jpg)
+
+---
+
+**CVPR 2026｜ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**
+
+[Project](https://vistorybench.github.io/),
+[Paper](https://arxiv.org/pdf/2505.24862)
+
+![vistorybenchpage](/images/vistorybenchpage.png)
+
+---
+
+**ArXiv 2025｜StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**
+
+[Project](https://styleme3d.github.io/),
+[Paper](https://arxiv.org/abs/2504.15281)
+
+![styleme3dpage](/images/styleme3dpage.png)
+
+
+
+
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Research interests
