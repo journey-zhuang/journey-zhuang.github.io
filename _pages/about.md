@@ -17,6 +17,9 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 
 
 ### Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more detail
+Team Members: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong
+
+Team Mentors: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University)
 
 <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
 
@@ -64,7 +67,7 @@ Publications
 
 **(Under Review) SIGGRAPH Asia 2026｜Multi-Shot Video Narrative**
 
-<img src="/images/multishotvideo.jpg" alt="multishotvideo" style="height: 200px;">
+<img src="/images/multishotvideo.jpg" alt="multishotvideo" style="width: 800px;">
 
 ---
 
@@ -73,7 +76,7 @@ Publications
 [Project](https://vistorybench.github.io/),
 [Paper](https://arxiv.org/pdf/2505.24862)
 
-<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="height: 200px;">
+<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 800px;">
 
 ---
 
@@ -82,7 +85,7 @@ Publications
 [Project](https://styleme3d.github.io/),
 [Paper](https://arxiv.org/abs/2504.15281)
 
-<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="height: 200px;">
+<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 800px;">
 
 
 
