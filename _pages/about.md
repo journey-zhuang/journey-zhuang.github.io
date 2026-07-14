@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me and AIGC Research"
+title: "Welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
