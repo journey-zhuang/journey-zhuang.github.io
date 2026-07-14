@@ -66,20 +66,32 @@ Publications
 
 **(Under Review) SIGGRAPH Asia 2026｜Multi-Shot Video Narrative**
 
+Fudan University｜China Telecom, TeleAI
+
+*Cailin Zhuang, Yaoqi Hu, Zheng Dong, Shiwen Zhang, Haibin Huang, Chi Zhang, Xuelong Li*
+
 <img src="/images/multishotvideo.jpg" alt="multishotvideo" style="width: 800px;">
 
 ---
 
 **CVPR 2026｜ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**
 
+ShanghaiTech University｜StepFun
+
+*Cailin Zhuang, Ailin Huang, Yaoqi Hu, Jingwei Wu, Wei Cheng, Jiaqi Liao, Hongyuan Wang, Xinyao Liao, Weiwei Cai, Hengyuan Xu, Xuanyang Zhang, Xianfang Zeng, Zhewei Huang, Gang Yu, Chi Zhang*
+
 [Project](https://vistorybench.github.io/),
-[Paper](https://arxiv.org/pdf/2505.24862)
+[Paper](https://arxiv.org/abs/2505.24862)
 
 <img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 800px;">
 
 ---
 
 **ArXiv 2025｜StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**
+
+ShanghaiTech University｜Guangming Lab｜StepFun
+
+*Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, Ming Li*
 
 [Project](https://styleme3d.github.io/),
 [Paper](https://arxiv.org/abs/2504.15281)
