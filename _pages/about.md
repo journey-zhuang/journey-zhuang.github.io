@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page!"
+title: "Welcome to My HomePage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 I received my Master Degree in computer science at [VRVC Lab](https://www.youtube.com/@shanghaitechdigitalhuman4076/videos), [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (supervised by Prof. [Lan Xu](http://xu-lan.com/) and [Liao Wang](https://aoliao12138.github.io/)), and will soon begin my Ph.D. in computer science at [Fusion Lab](https://github.com/fudan-generative-vision), [College of Computer Science and Artificial Intelligence](https://ai.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/) (supervised by Prof. [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
 
 My research interests focus on AI+Art, including Image/Video/3D/4D AIGC, World Model, Computer Vision, Computer Graphics, Digital Media, Computational Photography, and Neuroscience. Currently, I primarily work on narrative filmmaking and neural signal-guided visual reconstruction, leading the [AI4C (AI for Creativity) Research Team](https://aigcresearch.github.io/) in AIGC Research. AI4C Team aims to empower AI-driven design, enhance artistic creation with AI-tech, and explore the nature of human creativity.
