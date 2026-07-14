@@ -28,7 +28,7 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 # Internships Experience: 
 
 ### 2026-now｜<img src="/images/上智院logo.webp" alt="SAIS Logo" style="height: 30px;">｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)
-Research Intern in Video Generation (World Model)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+Research Intern in Video World Model｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
 
 ### 2025-2026｜<img src="/images/teleai_logo.png" alt="TeleAI Logo" style="height: 30px;">｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)
 Research Intern in Video Generation (Multi-Shot Filmmaking)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
