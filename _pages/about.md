@@ -18,11 +18,11 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 
 # Internships Experience: 
 
-[StepFun](https://www.stepfun.com/)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
+2025｜[StepFun](https://www.stepfun.com/)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
 
-[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
+2025-2026｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
 
-[Shanghai Academy of AI for Science](https://www.sais.com.cn/)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+2026｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
 
 
 ---
