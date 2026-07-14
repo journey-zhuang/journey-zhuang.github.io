@@ -1,9 +1,9 @@
 ---
 title: "Multi-Shot Video Narrative."
 collection: publications
-permalink: /publication/2026-05-XX-XXX
+permalink: /publication/2026-08-01-MSV
 excerpt: 'This is a holistic framework for multi-shot video generation.'
-date: 2026-05-XX
+date: 2026-08-01
 venue: 'arXiv'
 paperurl: '[https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)'
 ---
