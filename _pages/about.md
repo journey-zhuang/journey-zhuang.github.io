@@ -18,11 +18,14 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 
 # Internships Experience: 
 
-2025｜[StepFun](https://www.stepfun.com/)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
+### 2025｜<img src="/images/logo-stepfun.svg" alt="StepFun Logo" style="height: 30px;">｜[StepFun](https://www.stepfun.com/)
+Research Intern in Image Generation (Story Visualization)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
 
-2025-2026｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
+### 2025-2026｜<img src="/images/teleai_logo.png" alt="TeleAI Logo" style="height: 30px;">｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)
+Research Intern in Video Generation (Multi-Shot Filmmaking)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
 
-2026｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+### 2026｜<img src="/images/上智院logo.webp" alt="SAIS Logo" style="height: 30px;">｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)
+Research Intern in Video Generation (World Model)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
 
 
 ---
