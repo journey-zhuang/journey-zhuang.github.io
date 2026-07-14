@@ -17,6 +17,7 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 
 
 ### Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more detail
+
 Team Members: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong
 
 Team Mentors: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University)
