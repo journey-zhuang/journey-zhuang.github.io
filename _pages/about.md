@@ -15,12 +15,12 @@ My research interests focus on AI+Art, including Image/Video/3D/4D AIGC, World M
 I am running a WeChat Official Account, called **AIGC Research**, dedicated to comprehensively tracking academic frontiers in AIGC through the PaperDaily series. 
 As of 2026.03.04, it has attracted more than **7,000** followers and maintained a rising trend, welcome your follow and support!
 
----
 
 ### Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more detail
 
 <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
 
+---
 
 # Internships Experience: 
 
