@@ -64,7 +64,7 @@ Publications
 
 **(Under Review) SIGGRAPH Asia 2026｜Multi-Shot Video Narrative**
 
-![multishotvideo](/images/multishotvideo.jpg)
+<img src="/images/multishotvideo.jpg" alt="multishotvideo" style="height: 200px;">
 
 ---
 
@@ -73,7 +73,7 @@ Publications
 [Project](https://vistorybench.github.io/),
 [Paper](https://arxiv.org/pdf/2505.24862)
 
-![vistorybenchpage](/images/vistorybenchpage.png)
+<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="height: 200px;">
 
 ---
 
@@ -82,8 +82,7 @@ Publications
 [Project](https://styleme3d.github.io/),
 [Paper](https://arxiv.org/abs/2504.15281)
 
-![styleme3dpage](/images/styleme3dpage.png)
-
+<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="height: 200px;">
 
 
 
