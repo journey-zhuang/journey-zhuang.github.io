@@ -8,13 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interests focus on AI+Art, includes Image/Video/3D/4D AIGC, Computer Vision, Computer Graphics, Digital Media, Computational Photography, Neuroscience, etc. Currently, I primary focus on narrative filmmaking and neural signal-guided visual reconstruction, Leading AI4C (AI for Creativity) Team in AIGC Research. AI4C Team aims to empower AI to design, power artistic creation with AI-tech, and study the nature of human creativity. I am running a WeChat Official Account, called AIGC Research, to comprehensively track the academic frontier of AIGC through the PaperDaily series. 
+# About Me
+I received my Master Degree in computer science at [VRVC Lab](https://www.youtube.com/@shanghaitechdigitalhuman4076/videos), [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (supervised by Prof. [Lan Xu](http://xu-lan.com/) and [Liao Wang](https://aoliao12138.github.io/)), and will soon begin my Ph.D. at [Fusion Lab](https://github.com/fudan-generative-vision), [College of Computer Science and Artificial Intelligence](https://ai.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/) (supervised by Prof. [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+
+My research interests focus on AI+Art, including Image/Video/3D/4D AIGC, World Model, Computer Vision, Computer Graphics, Digital Media, Computational Photography, and Neuroscience. Currently, I primarily work on narrative filmmaking and neural signal-guided visual reconstruction, leading the [AI4C (AI for Creativity) Research Team](https://aigcresearch.github.io/) in AIGC Research. AI4C Team aims to empower AI-driven design, enhance artistic creation with AI-tech, and explore the nature of human creativity.
+
+I am running a WeChat Official Account, called **AIGC Research**, dedicated to comprehensively tracking academic frontiers in AIGC through the PaperDaily series. 
 As of 2026.03.04, it has attracted more than **7,000** followers and maintained a rising trend, welcome your follow and support!
+
+
+# Internships Experience: 
+
+[StepFun](https://www.stepfun.com/)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
+
+[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
+
+[Shanghai Academy of AI for Science](https://www.sais.com.cn/)｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+
+
+---
+
 
 # AIGC Research｜AI4C Team｜[HomePage](https://aigcresearch.github.io/)
 
 ![AIGC Research Logo](/images/创意人工智能研究组.png)
 
+<!--
 AI4C Research Plan
 ======
 Following the idea of "exploring AIGC technology to power the artistic creation and content production, and promote the era of independent creation", we will take film-level animation as our starting point, because "animation" is a masterpiece of artistic expression, including music, picture, color, story, motion effect, emotion and other all-round elements. It provides rich and comprehensive "learning materials" for AI to fully understand creation. And "film-level" means extreme artistic performance and higher precision technical level (the difference between video, TV and film is the expression of various artistic languages, such as camera language), which will land research results in the industry.
@@ -34,7 +53,7 @@ Application technical level (AI in Creative Workflow) starts from the perspectiv
 So, how do we implement the idea above? This requires us to understand how the current powerful large generative AI-model works, which is called Interpretability research. In my opinion, it can be divided into microscopic interpretability, mesoscopic interpretability and macro interpretability.Research on the interpretability of large models can help us improve current deep learning algorithms and even streamline deep models, thus achieve "more with less".
 
 In addition to studying the Interpretability of existing technologies and carrying out improved innovation and application, we can also learn from other disciplines. Drawing on the existing great neuroscience theories, we can achieve subversive innovative breakthroughs by building mathematical models and neural network algorithms related to different brain function regions and brain networks (simulation-driven/object-oriented brain-like research).Using AI technology to assist the exploration of neural mechanisms, namely AI for Science (Neuroscience), and expressing neural mechanism as a mathematical model to improve AI algorithms (computational neuroscience).
-
+-->
 
 Publications
 ======
