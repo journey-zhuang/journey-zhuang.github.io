@@ -33,7 +33,7 @@ Research Intern in Video Generation (World Model)｜mentor: Baoyou Chen; team le
 
 # AIGC Research｜AI4C Team｜[HomePage](https://aigcresearch.github.io/)
 
-![AIGC Research Logo](/images/创意人工智能研究组.png)
+<img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
 
 <!--
 AI4C Research Plan
