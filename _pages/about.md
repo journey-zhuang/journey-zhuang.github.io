@@ -12,7 +12,7 @@ I received my Master degree in Computer Science at [VRVC Lab](https://www.youtub
 
 My research interests focus on AI+Art, including Image/Video/3D/4D AIGC, World Model, Computer Vision, Computer Graphics, Digital Media, Computational Photography, and Neuroscience. Currently, I primarily work on narrative filmmaking and neural signal-guided visual reconstruction, leading the [AIGC Research｜AI for Creativity (AI4C) Team](https://aigcresearch.github.io/) <img src="/images/AIGC Research light2.jpg" alt="AI4C logo" style="height: 30px;">. AI4C Team aims to empower AI-driven design, enhance artistic creation with AI-tech, and explore the nature of human creativity.
 
-I am running a WeChat Official Account, called **AIGC Research**, dedicated to comprehensively tracking academic frontiers in AIGC through the PaperDaily series. 
+> I am running a WeChat Official Account, called **AIGC Research**, dedicated to comprehensively tracking academic frontiers in AIGC through the PaperDaily series. 
 As of 2026.03.04, it has attracted more than **7,000** followers and maintained a rising trend, welcome your follow and support!
 
 ---
@@ -20,9 +20,9 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 # AIGC Research｜AI4C Team 
 Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more details.
 
-**Team Members**: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong. 
-
-**Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University)
+> **Team Members**: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong. 
+>
+> **Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University)
 
 <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
 
@@ -31,13 +31,16 @@ Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/)
 # Internships Experience: 
 
 ### 2026-now｜<img src="/images/上智院logo.webp" alt="SAIS Logo" style="height: 30px;">｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)
-Research Intern in Video World Model｜mentor: Baoyou Chen; team lead: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+Research Intern in Video World Model
+> **Mentor**: ; **Team Lead**: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
 
 ### 2025-2026｜<img src="/images/teleai_logo.png" alt="TeleAI Logo" style="height: 30px;">｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)
-Research Intern in Video Generation (Multi-Shot Filmmaking)｜mentor: Shiwen Zhang; team lead: [Haibin Huang](https://brotherhuang.github.io/).
+Research Intern in Video Generation (Multi-Shot Filmmaking)
+> **Mentor**: Shiwen Zhang; **Team Lead**: [Haibin Huang](https://brotherhuang.github.io/).
 
 ### 2025｜<img src="/images/logo-stepfun.svg" alt="StepFun Logo" style="height: 30px;">｜[StepFun](https://www.stepfun.com/)
-Research Intern in Image Generation (Story Visualization)｜mentor: [Wei Cheng](https://wchengad.github.io/); collaborators: [Ailin Huang](https://github.com/P2Oileen); team lead: [Gang Yu](https://www.skicyyu.org/).
+Research Intern in Image Generation (Story Visualization)
+> **Mentor**: [Wei Cheng](https://wchengad.github.io/); **Collaborators**: [Ailin Huang](https://github.com/P2Oileen), [Zhewei Huang](https://github.com/hzwer), [Xuanyang Zhang](https://scholar.google.com/citations?user=oPV20eMAAAAJ&hl=zh-CN); **Team Lead**: [Gang Yu](https://www.skicyyu.org/).
 
 ---
 
@@ -67,11 +70,17 @@ In addition to studying the Interpretability of existing technologies and carryi
 Publications
 ======
 
+
 **(Under Review) SIGGRAPH Asia 2026｜Multi-Shot Video Narrative**
 
 Fudan University｜China Telecom, TeleAI
 
-*Cailin Zhuang, Yaoqi Hu, Zheng Dong, Shiwen Zhang, Haibin Huang, Chi Zhang, Xuelong Li*
+*Cailin Zhuang\*, Yaoqi Hu\*, Zheng Dong, Shiwen Zhang, Haibin Huang†, Chi Zhang, Xuelong Li‡*
+
+<a href="https://xxx.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+
+> Multi-Shot Video Narrative
 
 <img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 500px;">
 
@@ -81,10 +90,14 @@ Fudan University｜China Telecom, TeleAI
 
 ShanghaiTech University｜StepFun
 
-*Cailin Zhuang, Ailin Huang, Yaoqi Hu, Jingwei Wu, Wei Cheng, Jiaqi Liao, Hongyuan Wang, Xinyao Liao, Weiwei Cai, Hengyuan Xu, Xuanyang Zhang, Xianfang Zeng, Zhewei Huang, Gang Yu, Chi Zhang*
+*Cailin Zhuang\*, Ailin Huang\*†, Yaoqi Hu\*, Jingwei Wu, Wei Cheng†, Jiaqi Liao, Hongyuan Wang, Xinyao Liao, Weiwei Cai, Hengyuan Xu, Xuanyang Zhang, Xianfang Zeng, Zhewei Huang‡, Gang Yu‡, Chi Zhang‡*
 
-[Project](https://vistorybench.github.io/),
-[Paper](https://arxiv.org/abs/2505.24862)
+<a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/2505.24862"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+
+> Story visualization aims to generate coherent image sequences that faithfully represent a narrative and match given character references. Despite progress in generative models, existing benchmarks remain narrow in scope, often limited to short prompts, lacking character references, or single-image cases, failing to reflect real-world narrative complexity and obscuring true model performance.
+We introduce ViStoryBench, a comprehensive benchmark designed to evaluate story visualization models across varied narrative structures, visual styles, and character settings. It features richly annotated multi-shot scripts derived from curated stories spanning literature, film, and folklore. Large language models assist in story summarization and script generation, with all outputs verified by humans for coherence and fidelity. Character references are carefully curated to maintain consistency across different artistic styles.  
+ViStoryBench proposes a suite of multi-dimensional automated metrics to evaluate character consistency, style similarity, prompt alignment, aesthetic quality, and artifacts like copy-paste behavior. These metrics are validated through human studies and used to assess a broad range of open-source and commercial models, enabling systematic analysis and encouraging advances in visual storytelling.
 
 <img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 500px;">
 
@@ -94,12 +107,41 @@ ShanghaiTech University｜StepFun
 
 ShanghaiTech University｜Guangming Lab｜StepFun
 
-*Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, Ming Li*
+*Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang†, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, Ming Li‡*
 
-[Project](https://styleme3d.github.io/),
-[Paper](https://arxiv.org/abs/2504.15281)
+<a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+
+> Current 3D Gaussian Splatting stylization approaches are limited in their ability to represent diverse artistic styles, frequently defaulting to low-level texture replacement or yielding semantically inconsistent outputs. In this paper, we introduce StyleMe3D, a novel hierarchical framework that achieves comprehensive, high-fidelity stylization by disentangling multi-level style representations while preserving geometric fidelity. The cornerstone of StyleMe3D is Dynamic Style Score Distillation (DSSD), which harnesses latent priors from a style-aware diffusion model to provide high-level semantic guidance, ensuring robust and expressive style transfer. To further refine this distillation process, we propose a multi-modal alignment strategy using the CLIP latent space: a CLIP-based style stream evaluator (Contrastive Style Descriptor) that enforces middle-level stylistic similarity, and a CLIP-based content stream evaluator (3D Gaussian Quality Assessment) that acts as a global regularizer to mitigate typical GS quality degradation. Finally, a VGG-based Simultaneously Optimized Scale module is integrated to refine fine-grained texture details at the low-level. Extensive experiments demonstrate that our method consistently preserves intricate geometric details and achieves coherent stylistic effects across entire scenes, significantly surpassing state-of-the-art baselines in both qualitative and quantitative evaluations.
 
 <img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 500px;">
+
+---
+
+
+**(On Going) CVPR 2027｜Video World Model**
+
+FDU｜SAIS｜SII
+
+*Cailin Zhuang, Yaoqi Hu, Siyu Zhu‡*
+
+<a href="https://xxx.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+
+> Video World Model
+
+---
+
+**(On Going) CVPR 2027｜fMRI-guided Video Reconstruction**
+
+CQUT｜FDU
+
+*Xinqian Zhang\*, Cailin Zhuang\*†, Yaoqi Hu, Qingling Xia‡*
+
+<a href="https://xxx.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+
+> fMRI-guided Video Reconstruction
 
 
 
