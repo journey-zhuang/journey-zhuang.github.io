@@ -73,7 +73,7 @@ Fudan University｜China Telecom, TeleAI
 
 *Cailin Zhuang, Yaoqi Hu, Zheng Dong, Shiwen Zhang, Haibin Huang, Chi Zhang, Xuelong Li*
 
-<img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 600px;">
+<img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 500px;">
 
 ---
 
@@ -86,7 +86,7 @@ ShanghaiTech University｜StepFun
 [Project](https://vistorybench.github.io/),
 [Paper](https://arxiv.org/abs/2505.24862)
 
-<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 600px;">
+<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 500px;">
 
 ---
 
@@ -99,7 +99,7 @@ ShanghaiTech University｜Guangming Lab｜StepFun
 [Project](https://styleme3d.github.io/),
 [Paper](https://arxiv.org/abs/2504.15281)
 
-<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 600px;">
+<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 500px;">
 
 
 
