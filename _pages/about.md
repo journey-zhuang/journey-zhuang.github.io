@@ -73,7 +73,7 @@ Fudan University｜China Telecom, TeleAI
 
 *Cailin Zhuang, Yaoqi Hu, Zheng Dong, Shiwen Zhang, Haibin Huang, Chi Zhang, Xuelong Li*
 
-<img src="/images/multishotvideo.jpg" alt="multishotvideo" style="width: 800px;">
+<img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 800px;">
 
 ---
 
