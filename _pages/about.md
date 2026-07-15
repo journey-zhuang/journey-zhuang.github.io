@@ -118,6 +118,8 @@ ShanghaiTech University｜Guangming Lab｜StepFun
 
 ---
 
+Ongoing Work
+======
 
 **(On Going) CVPR 2027｜Video World Model**
 
