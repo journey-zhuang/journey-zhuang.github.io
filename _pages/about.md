@@ -24,7 +24,9 @@ Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/)
 >
 > **Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University)
 
-<img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
+<div align="center">
+  <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
+</div>
 
 ---
 
@@ -82,7 +84,9 @@ Fudan University｜China Telecom, TeleAI
 
 > Multi-Shot Video Narrative
 
-<img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 500px;">
+<div align="center">
+  <img src="/images/multishotac_page.jpg" alt="multishotvideo" style="width: 500px;">
+</div>
 
 ---
 
@@ -92,14 +96,19 @@ ShanghaiTech University｜StepFun
 
 *Cailin Zhuang\*, Ailin Huang\*†, Yaoqi Hu\*, Jingwei Wu, Wei Cheng†, Jiaqi Liao, Hongyuan Wang, Xinyao Liao, Weiwei Cai, Hengyuan Xu, Xuanyang Zhang, Xianfang Zeng, Zhewei Huang‡, Gang Yu‡, Chi Zhang‡*
 
+<a href="https://arxiv.org/abs/2505.24862"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
+<a href="https://github.com/ViStoryBench/vistorybench"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
+<a href="https://huggingface.co/datasets/ViStoryBench/ViStoryBench"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
 <a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
-<a href="https://arxiv.org/abs/2505.24862"><img src="https://img.shields.io/static/v1?label=Tech%20Paper&message=Arxiv&color=red"></a> &ensp;
+<a href="https://vistorybench.github.io/story_detail/"><img src="https://img.shields.io/static/v1?label=Browse%20Results&message=Web&color=green"></a> &ensp;
 
 > Story visualization aims to generate coherent image sequences that faithfully represent a narrative and match given character references. Despite progress in generative models, existing benchmarks remain narrow in scope, often limited to short prompts, lacking character references, or single-image cases, failing to reflect real-world narrative complexity and obscuring true model performance.
 We introduce ViStoryBench, a comprehensive benchmark designed to evaluate story visualization models across varied narrative structures, visual styles, and character settings. It features richly annotated multi-shot scripts derived from curated stories spanning literature, film, and folklore. Large language models assist in story summarization and script generation, with all outputs verified by humans for coherence and fidelity. Character references are carefully curated to maintain consistency across different artistic styles.  
 ViStoryBench proposes a suite of multi-dimensional automated metrics to evaluate character consistency, style similarity, prompt alignment, aesthetic quality, and artifacts like copy-paste behavior. These metrics are validated through human studies and used to assess a broad range of open-source and commercial models, enabling systematic analysis and encouraging advances in visual storytelling.
 
-<img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 500px;">
+<div align="center">
+  <img src="/images/vistorybenchpage.png" alt="ViStoryBench" style="width: 500px;">
+</div>
 
 ---
 
@@ -114,7 +123,9 @@ ShanghaiTech University｜Guangming Lab｜StepFun
 
 > Current 3D Gaussian Splatting stylization approaches are limited in their ability to represent diverse artistic styles, frequently defaulting to low-level texture replacement or yielding semantically inconsistent outputs. In this paper, we introduce StyleMe3D, a novel hierarchical framework that achieves comprehensive, high-fidelity stylization by disentangling multi-level style representations while preserving geometric fidelity. The cornerstone of StyleMe3D is Dynamic Style Score Distillation (DSSD), which harnesses latent priors from a style-aware diffusion model to provide high-level semantic guidance, ensuring robust and expressive style transfer. To further refine this distillation process, we propose a multi-modal alignment strategy using the CLIP latent space: a CLIP-based style stream evaluator (Contrastive Style Descriptor) that enforces middle-level stylistic similarity, and a CLIP-based content stream evaluator (3D Gaussian Quality Assessment) that acts as a global regularizer to mitigate typical GS quality degradation. Finally, a VGG-based Simultaneously Optimized Scale module is integrated to refine fine-grained texture details at the low-level. Extensive experiments demonstrate that our method consistently preserves intricate geometric details and achieves coherent stylistic effects across entire scenes, significantly surpassing state-of-the-art baselines in both qualitative and quantitative evaluations.
 
-<img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 500px;">
+<div align="center">
+  <img src="/images/styleme3dpage.png" alt="styleme3dpage" style="width: 500px;">
+</div>
 
 ---
 
