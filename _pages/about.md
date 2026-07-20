@@ -73,7 +73,7 @@ Publications
 ======
 
 
-**(Under Review) SIGGRAPH Asia 2026｜Multi-Shot Video Narrative**
+**SIGGRAPH Asia 2026｜Act2Cut: Continuous Multi-Shot Video Narrative xxx**
 
 Fudan University｜China Telecom, TeleAI
 
