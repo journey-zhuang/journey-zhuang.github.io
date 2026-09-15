@@ -38,15 +38,15 @@ Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/)
 
 ### 2026-now｜<img src="/images/上智院logo.webp" alt="SAIS Logo" style="height: 30px;">｜[Shanghai Academy of AI for Science](https://www.sais.com.cn/)
 Research Intern in Video World Model
-> **Mentor**: ; **Team Lead**: [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). 
+> **Mentor**: ; **Team Lead**: [Siyu Zhu (朱思语)](https://sites.google.com/site/zhusiyucs/home). 
 
 ### 2025-2026｜<img src="/images/teleai_logo.png" alt="TeleAI Logo" style="height: 30px;">｜[China Telecom, TeleAI](https://www.teleai.com.cn/product/AboutTeleAI_en)
 Research Intern in Video Generation (Multi-Shot Filmmaking)
-> **Mentor**: Shiwen Zhang; **Team Lead**: [Haibin Huang](https://brotherhuang.github.io/).
+> **Mentor**: Shiwen Zhang (张诗文); **Team Lead**: [Haibin Huang (黄海斌)](https://brotherhuang.github.io/).
 
 ### 2025｜<img src="/images/logo-stepfun.svg" alt="StepFun Logo" style="height: 30px;">｜[StepFun](https://www.stepfun.com/)
 Research Intern in Image Generation (Story Visualization)
-> **Mentor**: [Wei Cheng](https://wchengad.github.io/); **Collaborators**: [Ailin Huang](https://github.com/P2Oileen), [Zhewei Huang](https://github.com/hzwer), [Xuanyang Zhang](https://scholar.google.com/citations?user=oPV20eMAAAAJ&hl=zh-CN); **Team Lead**: [Gang Yu](https://www.skicyyu.org/).
+> **Mentor**: [Wei Cheng (程巍)](https://wchengad.github.io/); **Collaborators**: [Ailin Huang (黄艾琳)](https://github.com/P2Oileen), [Zhewei Huang (黄哲威)](https://github.com/hzwer), [Xuanyang Zhang (张选扬)](https://scholar.google.com/citations?user=oPV20eMAAAAJ&hl=zh-CN); **Team Lead**: [Gang Yu (俞刚)](https://www.skicyyu.org/).
 
 ---
 
