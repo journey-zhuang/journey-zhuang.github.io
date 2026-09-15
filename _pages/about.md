@@ -24,9 +24,9 @@ As of 2026.03.04, it has attracted more than **7,000** followers and maintained 
 # AIGC Research｜AI4C Team 
 Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more details.
 
-> **Team Members**: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong, Yiming Guo (SHU).
+> **Team Members**: [Cailin Zhuang (庄才林)](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu (胡耀淇)](https://github.com/yaoqih), Zheng Dong (董政), Yiming Guo (郭一铭) (SHU).
 >
-> **Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, SHU).
+> **Team Mentors**: [Wei Cheng (程巍)](https://wchengad.github.io/) (Stepfun), [Qingling Xia (夏清玲)](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu (朱思语)](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li (李梦甜)](https://mengtianli.github.io/) (Shanghai Film Academy, SHU).
 
 <div align="center">
   <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
