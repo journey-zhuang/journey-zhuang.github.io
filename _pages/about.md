@@ -15,14 +15,18 @@ My research interests focus on AI+Art, including Image/Video/3D/4D AIGC, World M
 > I am running a WeChat Official Account, called **AIGC Research**, dedicated to comprehensively tracking academic frontiers in AIGC through the PaperDaily series. 
 As of 2026.03.04, it has attracted more than **7,000** followers and maintained a rising trend, welcome your follow and support!
 
+> 🔥我正在寻找视频生成与世界模型方向的工业界实习机会（我有足够前沿的创新点，以及丰富的工程经验），如果您欣赏我并愿意与我合作，欢迎随时通过电子邮件与我联系！
+> 
+> 🔥I am currently seeking an industry internship in video generation and world models (I possess sufficiently advanced and innovative ideas, as well as extensive engineering experience). If you are interested in my work and would like to collaborate, please feel free to contact me via email!
+
 ---
 
 # AIGC Research｜AI4C Team 
 Welcome to [AIGC Research (AI4C Team) Homepage](https://aigcresearch.github.io/) for more details.
 
-> **Team Members**: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), [Zheng Dong](), [Yiming Guo]() (SHU).
+> **Team Members**: [Cailin Zhuang](https://scholar.google.com/citations?user=YuOegioAAAAJ&hl=en) (FDU), [Yaoqi Hu](https://github.com/yaoqih), Zheng Dong, Yiming Guo (SHU).
 >
-> **Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, Shanghai University).
+> **Team Mentors**: [Wei Cheng](https://wchengad.github.io/) (Stepfun), [Qingling Xia](https://scholar.google.com/citations?user=QgwsFLQAAAAJ&hl=zh-CN) (CQUT), [Siyu Zhu](https://sites.google.com/site/zhusiyucs/home) (FDU & SII), [Mengtian Li](https://mengtianli.github.io/) (Shanghai Film Academy, SHU).
 
 <div align="center">
   <img src="/images/创意人工智能研究组.png" alt="AIGC Research Logo" style="height: 100px;">
