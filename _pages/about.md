@@ -89,7 +89,7 @@ Fudan University｜China Telecom, TeleAI
 > Continuous Multi-Shot Video Narrative
 
 <div align="center">
-  <img src="/images/a2c_page.jpg" alt="multishotvideo" style="width: 500px;">
+  <img src="/images/a2c_ff_mask.png" alt="multishotvideo" style="width: 500px;">
 </div>
 
 ---
