@@ -79,7 +79,7 @@ Publications
 
 **SIGGRAPH Asia 2026｜Act2Cut: Continuous Multi-Shot Video Narrative Match xxx**
 
-Fudan University｜China Telecom, TeleAI
+Fudan University｜China Telecom, TeleAI｜AIGC Research
 
 *Cailin Zhuang\*, Yaoqi Hu\*, Zheng Dong, Shiwen Zhang, Haibin Huang†, Chi Zhang, Xuelong Li‡*
 
@@ -96,7 +96,7 @@ Fudan University｜China Telecom, TeleAI
 
 **CVPR 2026｜ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**
 
-ShanghaiTech University｜StepFun
+ShanghaiTech University｜StepFun｜AIGC Research
 
 *Cailin Zhuang\*, Ailin Huang\*†, Yaoqi Hu\*, Jingwei Wu, Wei Cheng†, Jiaqi Liao, Hongyuan Wang, Xinyao Liao, Weiwei Cai, Hengyuan Xu, Xuanyang Zhang, Xianfang Zeng, Zhewei Huang‡, Gang Yu‡, Chi Zhang‡*
 
@@ -118,7 +118,7 @@ ViStoryBench proposes a suite of multi-dimensional automated metrics to evaluate
 
 **ArXiv 2025｜StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**
 
-ShanghaiTech University｜Guangming Lab｜StepFun
+ShanghaiTech University｜Guangming Lab｜StepFun｜AIGC Research
 
 *Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang†, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, Ming Li‡*
 
@@ -138,7 +138,7 @@ Ongoing Work
 
 **(On Going) CVPR 2027｜Video World Model**
 
-FDU｜SAIS｜SII
+FDU｜SAIS｜SII｜AIGC Research
 
 *Cailin Zhuang, Yaoqi Hu, Siyu Zhu‡*
 
@@ -151,7 +151,7 @@ FDU｜SAIS｜SII
 
 **(On Going) CVPR 2027｜fMRI-guided Video Reconstruction**
 
-CQUT｜FDU
+CQUT｜FDU｜AIGC Research
 
 *Xinqian Zhang\*, Cailin Zhuang\*†, Yaoqi Hu, Qingling Xia‡*
 
