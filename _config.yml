@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Cailin Zhuang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Cailin Zhuang"
+description              : &description "Researcher working on generative vision, video world models and AI for creativity."
 url                      : https://journey-zhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "journey-zhuang/journey-zhuang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cailin Zhuang (庄才林)"
   avatar           : "zcl1.png"
-  bio              : "Ph.D. in Computer Science at Fudan University, xxxxxx@fudan.edu.cn, journeyzhuang@gmail.com"
+  bio              : "Ph.D. researcher in generative vision and AI for creativity."
   location         : "China Shanghai"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

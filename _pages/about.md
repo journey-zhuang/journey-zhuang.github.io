@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Welcome to My Homepage!"
+permalink: /about/
+title: "About Cailin Zhuang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
