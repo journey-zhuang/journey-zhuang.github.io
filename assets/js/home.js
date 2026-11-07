@@ -113,12 +113,12 @@
   let headerScrollTick = false;
   const updateHeaderOnScroll = () => {
     if (!siteHeader) return;
-    const desktop = window.innerWidth > 900;
-    const progress = desktop ? Math.min(Math.max(window.scrollY / 140, 0), 1) : 0;
+    const scrollRange = window.innerWidth > 900 ? 140 : 110;
+    const progress = Math.min(Math.max(window.scrollY / scrollRange, 0), 1);
     const dark = body.dataset.theme === 'dark';
     const background = dark ? [251, 253, 254] : [24, 50, 67];
     const alpha = 1 - (0.22 * progress);
-    const targetWidth = Math.min(920, Math.max(320, window.innerWidth - 48));
+    const targetWidth = Math.min(920, Math.max(260, window.innerWidth - 36));
     siteHeader.style.setProperty('--nav-shrink', `${Math.max(0, window.innerWidth - targetWidth) * progress}px`);
     siteHeader.style.setProperty('--nav-top', `${12 * progress}px`);
     siteHeader.style.setProperty('--nav-top-radius', `${999 * progress}px`);
