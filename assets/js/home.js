@@ -117,7 +117,8 @@
     const progress = Math.min(Math.max(window.scrollY / scrollRange, 0), 1);
     const dark = body.dataset.theme === 'dark';
     const background = dark ? [251, 253, 254] : [24, 50, 67];
-    const alpha = 1 - (0.22 * progress);
+    const mobile = window.innerWidth <= 900;
+    const alpha = mobile ? 0.98 - (0.38 * progress) : 1 - (0.22 * progress);
     const targetWidth = Math.min(920, Math.max(260, window.innerWidth - 36));
     siteHeader.style.setProperty('--nav-shrink', `${Math.max(0, window.innerWidth - targetWidth) * progress}px`);
     siteHeader.style.setProperty('--nav-top', `${12 * progress}px`);
@@ -125,8 +126,8 @@
     siteHeader.style.setProperty('--nav-bottom-radius', `${14 + (985 * progress)}px`);
     siteHeader.style.setProperty('--nav-bg', `rgba(${background.join(',')},${alpha.toFixed(3)})`);
     siteHeader.style.setProperty('--nav-border-alpha', progress.toFixed(3));
-    siteHeader.style.setProperty('--nav-shadow-alpha', (0.16 * progress).toFixed(3));
-    siteHeader.style.setProperty('--nav-blur', `${12 + (4 * progress)}px`);
+    siteHeader.style.setProperty('--nav-shadow-alpha', `${(mobile ? 0.22 : 0.16) * progress}`);
+    siteHeader.style.setProperty('--nav-blur', `${12 + ((mobile ? 8 : 4) * progress)}px`);
     siteHeader.style.setProperty('--nav-saturation', `${100 + (40 * progress)}%`);
     siteHeader.classList.toggle('is-scrolled', progress > 0.01);
     updateActiveNav();

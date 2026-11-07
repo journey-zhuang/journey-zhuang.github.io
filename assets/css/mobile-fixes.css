@@ -119,8 +119,13 @@
 
 @media (max-width: 900px) {
   .site-header {
+    position: sticky;
     width: calc(100% - var(--nav-shrink, 0px));
     max-width: none;
+    margin-inline: auto;
+    background-color: var(--nav-bg, #183243) !important;
+    background-clip: padding-box;
+    will-change: width, top, border-radius, background-color, backdrop-filter;
   }
 
   .site-nav {
