@@ -1,0 +1,117 @@
+@media (max-width: 600px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
+  .shell {
+    width: calc(100% - 28px);
+  }
+
+  .hero .name-lockup {
+    gap: 9px;
+  }
+
+  .hero .name-lockup h1 {
+    min-width: 0;
+    font-size: 38px !important;
+    line-height: 1.04;
+  }
+
+  .hero .name-divider,
+  .hero .name-cn {
+    margin-left: 4px;
+    font-size: 24px !important;
+  }
+
+  .hero-subtitle {
+    font-size: 18px !important;
+    line-height: 1.35;
+  }
+
+  .hero-note {
+    max-width: 100%;
+    padding: 9px 11px;
+    overflow-wrap: anywhere;
+  }
+
+  .hero-links {
+    width: 100%;
+    gap: 8px;
+    row-gap: 8px;
+  }
+
+  .hero-links .button {
+    min-width: 0;
+    padding: 9px 11px;
+  }
+
+  .hero-facts {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .hero-facts .research-tags {
+    max-width: 100%;
+    overflow-x: auto !important;
+    scrollbar-width: none;
+  }
+
+  .hero-facts .research-tags::-webkit-scrollbar {
+    display: none;
+  }
+
+  .hero-contact {
+    width: 100%;
+    margin-top: 22px;
+    padding: 18px 16px;
+  }
+
+  .hero-contact h2 {
+    overflow-wrap: anywhere;
+    white-space: normal !important;
+  }
+
+  .hero-contact .contact-inner {
+    padding: 0;
+  }
+
+  .hero-contact .button-light {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  .floating-opportunity {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  .team-copy h2,
+  .section-title-row h2,
+  .team-info-box,
+  .team-info-box p,
+  .education-logo-card,
+  .education-logo-name,
+  .education-logo-detail,
+  .experience-main,
+  .experience-heading h3,
+  .experience-heading h3 a,
+  .pub-body h3,
+  .authors,
+  .pub-affiliation {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .publication-card,
+  .publication-card .pub-body {
+    min-width: 0;
+  }
+
+  .pub-image {
+    width: 100%;
+    height: auto;
+  }
+}
