@@ -49,7 +49,7 @@
     });
     if (languageLabel) languageLabel.textContent = '中/EN';
     languageToggle?.setAttribute('aria-label', currentLanguage === 'zh' ? 'Switch to English' : '切换到中文');
-    document.title = currentLanguage === 'zh' ? '庄才林 · AIGC Research' : 'Cailin Zhuang · AI+Art Research';
+    document.title = currentLanguage === 'zh' ? '庄才林 · AIGC Research' : 'Cailin Zhuang · AIGC Research';
   };
 
   menuToggle?.addEventListener('click', () => {
