@@ -7,6 +7,41 @@
   const languageToggle = document.querySelector('[data-language-toggle]');
   const languageLabel = document.querySelector('[data-language-label]');
   const siteHeader = document.querySelector('.site-header');
+  const hoverCapable = window.matchMedia('(hover: hover)');
+  const togglePreviews = new WeakMap();
+  const isPreviewing = (button) => {
+    const state = button && togglePreviews.get(button);
+    return Boolean(state && (state.hovered || state.keyboardFocused));
+  };
+  const watchTogglePreview = (button, updateLabel) => {
+    if (!button) return;
+    const state = { hovered: false, keyboardFocused: false };
+    togglePreviews.set(button, state);
+    button.addEventListener('pointerenter', (event) => {
+      state.hovered = hoverCapable.matches && event.pointerType !== 'touch';
+      updateLabel();
+    });
+    button.addEventListener('pointerleave', () => {
+      state.hovered = false;
+      updateLabel();
+    });
+    button.addEventListener('pointerdown', () => {
+      state.keyboardFocused = false;
+      updateLabel();
+    });
+    button.addEventListener('focus', () => {
+      state.keyboardFocused = button.matches(':focus-visible');
+      updateLabel();
+    });
+    button.addEventListener('blur', () => {
+      state.keyboardFocused = false;
+      updateLabel();
+    });
+    hoverCapable.addEventListener('change', () => {
+      state.hovered = false;
+      updateLabel();
+    });
+  };
 
   const translations = {
     en: {
@@ -35,6 +70,13 @@
     }
   };
   let currentLanguage = localStorage.getItem('cz-language') === 'zh' ? 'zh' : 'en';
+  const updateLanguageLabel = () => {
+    const displayedLanguage = isPreviewing(languageToggle)
+      ? (currentLanguage === 'zh' ? 'en' : 'zh')
+      : currentLanguage;
+    if (languageLabel) languageLabel.textContent = displayedLanguage === 'zh' ? '中' : 'EN';
+    languageToggle?.setAttribute('aria-label', currentLanguage === 'zh' ? 'Switch to English' : '切换到中文');
+  };
 
   const updateLanguage = () => {
     const copy = translations[currentLanguage];
@@ -47,8 +89,7 @@
       const value = copy[element.dataset.i18nHtml];
       if (value !== undefined) element.innerHTML = value;
     });
-    if (languageLabel) languageLabel.textContent = '中/EN';
-    languageToggle?.setAttribute('aria-label', currentLanguage === 'zh' ? 'Switch to English' : '切换到中文');
+    updateLanguageLabel();
     document.title = currentLanguage === 'zh' ? '庄才林 · AIGC Research' : 'Cailin Zhuang · AIGC Research';
   };
 
@@ -64,9 +105,9 @@
 
   const storedTheme = localStorage.getItem('cz-theme');
   if (storedTheme === 'dark') body.dataset.theme = 'dark';
-  const updateThemeLabel = (showTarget) => {
+  const updateThemeLabel = () => {
     const dark = body.dataset.theme === 'dark';
-    const preview = showTarget ?? (themeToggle?.matches(':hover') || document.activeElement === themeToggle);
+    const preview = isPreviewing(themeToggle);
     const mode = preview ? (dark ? 'theme-light' : 'theme-dark') : (dark ? 'theme-dark' : 'theme-light');
     if (themeLabel) themeLabel.textContent = translations[currentLanguage][mode];
     themeToggle?.setAttribute('data-display-theme', mode === 'theme-light' ? 'light' : 'dark');
@@ -85,10 +126,8 @@
     updateThemeLabel();
     updateHeaderOnScroll();
   });
-  themeToggle?.addEventListener('mouseenter', () => updateThemeLabel(true));
-  themeToggle?.addEventListener('mouseleave', () => updateThemeLabel(false));
-  themeToggle?.addEventListener('focus', () => updateThemeLabel(true));
-  themeToggle?.addEventListener('blur', () => updateThemeLabel(false));
+  watchTogglePreview(themeToggle, updateThemeLabel);
+  watchTogglePreview(languageToggle, updateLanguageLabel);
   languageToggle?.addEventListener('click', () => {
     currentLanguage = currentLanguage === 'zh' ? 'en' : 'zh';
     localStorage.setItem('cz-language', currentLanguage);
