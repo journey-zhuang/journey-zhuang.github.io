@@ -98,6 +98,20 @@
     menuToggle.setAttribute('aria-expanded', String(open));
   });
 
+  document.addEventListener('pointerdown', (event) => {
+    if (!siteNav?.classList.contains('is-open') || window.innerWidth > 900) return;
+    if (siteNav.contains(event.target) || menuToggle?.contains(event.target)) return;
+    siteNav.classList.remove('is-open');
+    menuToggle?.setAttribute('aria-expanded', 'false');
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape' || !siteNav?.classList.contains('is-open')) return;
+    siteNav.classList.remove('is-open');
+    menuToggle?.setAttribute('aria-expanded', 'false');
+    menuToggle?.focus();
+  });
+
   siteNav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', () => {
     siteNav.classList.remove('is-open');
     menuToggle?.setAttribute('aria-expanded', 'false');
