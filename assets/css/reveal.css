@@ -1,0 +1,10 @@
+/* JavaScript marks only modules below the initial viewport as pending. */
+.scroll-reveal-pending {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce), print {
+  .scroll-reveal-pending {
+    opacity: 1;
+  }
+}

@@ -190,4 +190,51 @@
 
   const year = document.querySelector('[data-year]');
   if (year) year.textContent = String(new Date().getFullYear());
+
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  if (!reducedMotion.matches && 'IntersectionObserver' in window && 'animate' in Element.prototype) {
+    const pendingClass = 'scroll-reveal-pending';
+    const animations = new Set();
+    const reveal = (element, animate = true, delay = 0) => {
+      observer.unobserve(element);
+      element.classList.remove(pendingClass);
+      if (!animate || reducedMotion.matches) return;
+      // No persistent transform/opacity layer: the glass and hover effects stay intact.
+      const animation = element.animate([
+        { opacity: 0, translate: '0 20px' },
+        { opacity: 1, translate: '0 0' }
+      ], { duration: 600, delay, easing: 'cubic-bezier(.22, 1, .36, 1)', fill: 'backwards' });
+      animations.add(animation);
+      const finish = () => animations.delete(animation);
+      animation.addEventListener('finish', finish, { once: true });
+      animation.addEventListener('cancel', finish, { once: true });
+    };
+    const observer = new IntersectionObserver((entries) => {
+      let sequence = 0;
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) reveal(entry.target, true, Math.min(sequence++, 2) * 70);
+      });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.01 });
+    const targets = document.querySelectorAll([
+      '.about-section .rich-copy > p', '.notice-stack', '.education-module',
+      '#team > .content-grid', '.section-title-row', '.experience-item',
+      '.publication-card', '.ongoing-card'
+    ].join(', '));
+    // Measure before changing styles, and keep the initial view (including deep links) visible.
+    const pending = Array.from(targets).filter((element) => element.getBoundingClientRect().top >= window.innerHeight);
+    pending.forEach((element) => {
+      element.classList.add(pendingClass);
+      observer.observe(element);
+    });
+    document.addEventListener('focusin', (event) => {
+      const element = event.target.closest(`.${pendingClass}`);
+      if (element) reveal(element, false);
+    });
+    reducedMotion.addEventListener('change', (event) => {
+      if (!event.matches) return;
+      observer.disconnect();
+      pending.forEach((element) => element.classList.remove(pendingClass));
+      animations.forEach((animation) => animation.cancel());
+    });
+  }
 })();
