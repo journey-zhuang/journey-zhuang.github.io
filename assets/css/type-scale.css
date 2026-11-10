@@ -125,8 +125,13 @@ body[data-theme=dark] .ongoing-card .ongoing-label{color:#7fc1df!important}
 body[data-theme=dark] .ongoing-card .ongoing-caption{color:#a8c2cd!important;border-top-color:#39758e}
 body[data-theme=dark] .ongoing-card .pub-buttons a{background:#234d60!important;border-color:#5e9ab4!important;color:#edf6fa!important}
 body[data-theme=dark] .ongoing-card .pub-buttons a:hover{background:#397d98!important;color:#fff!important}
-.tinted .team-logo:hover{background:#fbfdfe!important;color:#183243!important;border-color:#2e78a0!important}
-.tinted .team-logo:hover img{background:#fbfdfe}
+.tinted .team-logo:is(:hover,:focus-visible){background:#fbfdfe!important;color:#183243!important;border-color:#2e78a0!important}
+.tinted .team-logo:is(:hover,:focus-visible) img{background:#fbfdfe}
+.tinted .team-logo .team-logo-light{display:none}
+body[data-theme=dark] .tinted .team-logo .team-logo-dark,
+.tinted .team-logo:is(:hover,:focus-visible) .team-logo-dark{display:none}
+body[data-theme=dark] .tinted .team-logo .team-logo-light,
+.tinted .team-logo:is(:hover,:focus-visible) .team-logo-light{display:block}
 .tinted .team-logo img{border:0!important}
 .notice-stack>blockquote:first-child{grid-column:1 / -1}
 .floating-opportunity::after{display:none}
